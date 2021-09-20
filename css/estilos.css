@@ -9,3 +9,11 @@ body{
      width: 70%;
      border:1px solid gray;
  }
+
+ header{
+     height: 100px;
+     border: 1px solid pink;
+     display: flex;
+     justify-content: space-between;
+     padding: 30px;
+ }
